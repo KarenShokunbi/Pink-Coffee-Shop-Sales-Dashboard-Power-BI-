@@ -129,7 +129,11 @@ Use the filters on the left panel to explore:
 Hover over visuals for detailed insights
 ## Use Cases
 This dashboard is valuable to:
+
 Business owners to track performance
+
 Sales managers to monitor trends
+
 Analysts for reporting and storytelling
+
 Decision-makers for strategy development
